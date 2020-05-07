@@ -14,6 +14,7 @@ vue + vuex + vue-router + axios
 
 ![页面截图](https://github.com/w-wjh/mall/blob/master/image/%E9%A6%96%E9%A1%B5.png)
 ![页面截图](image/首页上拉.png)
+![页面截图](image/详情页.png)
 
 
 ## Project setup
