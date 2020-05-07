@@ -12,6 +12,8 @@ vue + vuex + vue-router + axios
   
 项目截图
 
+![Image text]
+
 
 ## Project setup
 ```
