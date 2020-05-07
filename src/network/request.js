@@ -37,7 +37,7 @@ export function request(config) {
 //   return new Promise((resolve, reject) => {
 //     // 1、创建实例
 //     const instance = axios.create({
-//       baseURL: 'http://123.207.32.32:8000',
+//       baseURL: '',
 //       timeout: 5000
 //     })
   
@@ -56,7 +56,7 @@ export function request(config) {
 // export function request(config) {
 //   // 1、创建实例
 //   const instance = axios.create({
-//     baseURL: 'http://123.207.32.32:8000',
+//     baseURL: '',
 //     timeout: 5000
 //   })
 
@@ -74,7 +74,7 @@ export function request(config) {
 // export function request(config, success, failure) {
 //   // 1、创建实例
 //   const instance = axios.create({
-//     baseURL: 'http://123.207.32.32:8000',
+//     baseURL: '',
 //     timeout: 5000
 //   })
 
