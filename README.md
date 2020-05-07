@@ -12,7 +12,7 @@ vue + vuex + vue-router + axios
   
 项目截图
 
-![Image text](https://github.com/w-wjh/mall/blob/master/image/%E9%A6%96%E9%A1%B5.png)
+![页面截图](https://github.com/w-wjh/mall/blob/master/image/%E9%A6%96%E9%A1%B5.png)
 
 
 ## Project setup
