@@ -12,7 +12,7 @@ vue + vuex + vue-router + axios
   
 项目截图
 
-![Image text]
+![Image text]image/QQ截图20200507121308.png
 
 
 ## Project setup
